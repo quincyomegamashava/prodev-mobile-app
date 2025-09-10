@@ -12,6 +12,7 @@ export default function RootLayout() {
       <Stack.Screen name="index" />
       <Stack.Screen name="join" />
       <Stack.Screen name="signin" />
+      <Stack.Screen name="passwordReset" />
     </Stack>
   );
 }
